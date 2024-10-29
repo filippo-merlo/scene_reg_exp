@@ -1,0 +1,101 @@
+idx,ann_id,expression,annotation
+0,61934,front sheep,A
+1,380772,chair on right,A
+2,709756,carrots,A
+3,175421,right boat,A
+4,588767,right zebra,A
+5,97835,chair in middle,M
+6,580914,elephant on right,A
+7,1570888,top plate,F
+8,592571,left zebra,A
+9,667576,middle wine glass,A
+10,580317,white dog,F
+11,625808,green umbrella,F
+12,405926,traffic light on right,A
+13,1957064,bottom left hotdog,F
+14,597954,left giraffe,A
+15,322419,bottom left,O
+16,1347999,white van,F
+17,248855,right train,A
+18,1155434,green vase,A
+19,581925,left elephant,A
+20,2128190,plant on left,A
+21,1591027,right chair,A
+22,15349,dog in back,A
+23,116059,left side of table,F
+24,65175,right side of screen,O
+25,154227,bike on left,A
+26,36370,middle broccoli,F
+27,1037875,bowl of apples,A
+28,662738,left wine glass,A
+29,155131,bike in front,A
+30,1048809,banana slices on left,F
+31,673777,glass of water,F
+32,1080773,bottom right donut,A
+33,167631,bus on right,A
+34,1949453,bottom right corner,O
+35,577606,the table,F
+36,1554909,leftmost cup,F
+37,595450,giraffe on top,A
+38,116739,couch,A
+39,1039606,bowl of cole slaw,F
+40,1076256,left sandwich,F
+41,1071847,left pizza,A
+42,675002,glass of water,A
+43,600788,right giraffe,A
+44,116045,couch on right,A
+45,1921506,right orange,F
+46,592703,front zebra,A
+47,150247,bike on left,A
+48,1097152,toilet seat,A
+49,589841,left zebra,A
+50,310197,left sandwich,A
+51,134299,right car,A
+52,112385,chair on left,A
+53,1969955,tv on right,A
+54,1361838,bike on left,A
+55,308035,front sandwich,A
+56,1557956,bottom left orange,A
+57,1160720,bear on left,A
+58,592662,right zebra,A
+59,598244,left giraffe,A
+60,1911041,green veggies,M
+61,74027,cow on left,A
+62,57479,horse in middle,A
+63,88841,left bottle,A
+64,165349,left bus,A
+65,1466205,white and white cake,F
+66,149450,left bike,A
+67,1578404,top pizza,F
+68,312306,right slice,A
+69,117421,left couch,A
+70,1672200,bottom boat,F
+71,2209288,right train,A
+72,585002,left bear,F
+73,102924,chair in front,A
+74,1933369,white shirt,F
+75,1176423,white bag,F
+76,63986,right sheep,A
+77,115697,bottom left table,F
+78,149568,bike in front,A
+79,1078973,bottom donut,A
+80,1185116,middle suitcase,A
+81,35915,right monitor,A
+82,111364,red shirt,M
+83,282594,middle sandwich,F
+84,1071087,front pizza,A
+85,50103,cat on right,A
+86,1960579,boat in back,F
+87,1080621,donut with chocolate frosting,A
+88,1186973,right suitcase,A
+89,100603,chair on right,A
+90,379646,left side of chair,A
+91,2081816,right train,F
+92,71384,right cow,A
+93,374126,chair in front of the man,A
+94,1162122,bottom banana,F
+95,65500,sheep on right,A
+96,1118003,white book,F
+97,674297,left jar,F
+98,176101,bike on left,F
+99,130302,bike on left,A
