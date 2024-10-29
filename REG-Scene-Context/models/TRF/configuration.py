@@ -28,7 +28,7 @@ class Config(object):
         self.batch_size = 32
         self.num_workers = 8
         self.checkpoint = f'/mnt/cimec-storage6/users/filippo.merlo/reg_scene_context_data/checkpoints/{self.prefix}_checkpoint.pth'#f'./{self.prefix}_checkpoint.pth'
-        self.project_data_path = '/mnt/cimec-storage6/users/filippo.merlo/reg_scene_context_data'#'./data'
+        self.project_data_path = '/mnt/cimec-storage6/users/filippo.merlo/reg_scene_context_data/refcoco'#'./data'
         self.checkpoint_path = join(self.project_data_path, 'models', self.prefix)
         self.clip_max_norm = 0.1
         self.early_stopping = True
