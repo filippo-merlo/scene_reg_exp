@@ -56,6 +56,6 @@ class Config(object):
 
         # Dataset
         self.dir = '/mnt/cimec-storage6/users/filippo.merlo/reg_scene_context_data/train2017'#'PATH_TO_COCO'  # COCO base dir (images)
-        self.ref_base = '/mnt/cimec-storage6/users/filippo.merlo/reg_scene_context_data/refcoco'#'PATH_TO_REF_BASE'  # RefCOCO* base dir (annotations)
+        self.ref_base = '/mnt/cimec-storage6/users/filippo.merlo/reg_scene_context_data/'#'PATH_TO_REF_BASE'  # RefCOCO* base dir (annotations)
         self.ref_dir = join(self.ref_base, self.prefix)
-        self.limit = -1w
+        self.limit = -1
