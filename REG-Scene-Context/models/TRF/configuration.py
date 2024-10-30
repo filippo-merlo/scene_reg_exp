@@ -28,7 +28,7 @@ class Config(object):
         self.batch_size = 32
         self.num_workers = 8
         self.checkpoint = f'/mnt/cimec-storage6/users/filippo.merlo/reg_scene_context_data/checkpoints/{self.prefix}_checkpoint.pth'#f'./{self.prefix}_checkpoint.pth'
-        self.project_data_path = '/mnt/cimec-storage6/users/filippo.merlo/reg_scene_context_data/refcoco'#'./data'
+        self.project_data_path = '/mnt/cimec-storage6/users/filippo.merlo/reg_scene_context_data'#'./data'
         self.checkpoint_path = join(self.project_data_path, 'models', self.prefix)
         self.clip_max_norm = 0.1
         self.early_stopping = True
@@ -55,7 +55,7 @@ class Config(object):
         self.pre_norm = True
 
         # Dataset
-        self.dir = 'PATH_TO_COCO'  # COCO base dir (images)
-        self.ref_base = 'PATH_TO_REF_BASE'  # RefCOCO* base dir (annotations)
+        self.dir = '/mnt/cimec-storage6/users/filippo.merlo/reg_scene_context_data/train2017'#'PATH_TO_COCO'  # COCO base dir (images)
+        self.ref_base = '/mnt/cimec-storage6/users/filippo.merlo/reg_scene_context_data/refcoco/instances.json'#'PATH_TO_REF_BASE'  # RefCOCO* base dir (annotations)
         self.ref_dir = join(self.ref_base, self.prefix)
         self.limit = -1
